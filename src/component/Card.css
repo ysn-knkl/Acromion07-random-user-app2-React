@@ -1,0 +1,49 @@
+
+
+.card-container{
+    background-color: rgb(212, 194, 194);
+    display:flex;
+    flex-direction: column;
+    width: 70%;
+    justify-content: center;
+    align-items: center;
+    
+    margin: 50px auto;
+    
+    
+}
+.card-info{
+    position: relative;
+}
+
+.main-img img{
+    width: 50px;
+    border-radius: 50%;
+    border: 1px solid grey;
+}
+.card-icon{
+    
+    
+    display:flex;
+    flex-direction: row;
+    
+      
+}
+
+.card-icon img {
+    width: 20px;
+    height: 20px;
+    margin: 15px;
+    cursor: pointer;
+}
+
+.btn button{
+    background-color: purple;
+    margin-left: 30px;
+    padding:1px 5px;
+    cursor: pointer;
+}
+
+tbody td{
+    font-size:0.7rem;
+}
