@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Acromion07-random-user-app2-React/static/css/main.2f069416.chunk.css",
+    "main.js": "/Acromion07-random-user-app2-React/static/js/main.63cfb0b7.chunk.js",
+    "main.js.map": "/Acromion07-random-user-app2-React/static/js/main.63cfb0b7.chunk.js.map",
+    "runtime-main.js": "/Acromion07-random-user-app2-React/static/js/runtime-main.fb2c0ea2.js",
+    "runtime-main.js.map": "/Acromion07-random-user-app2-React/static/js/runtime-main.fb2c0ea2.js.map",
+    "static/js/2.5cddd6a6.chunk.js": "/Acromion07-random-user-app2-React/static/js/2.5cddd6a6.chunk.js",
+    "static/js/2.5cddd6a6.chunk.js.map": "/Acromion07-random-user-app2-React/static/js/2.5cddd6a6.chunk.js.map",
+    "static/js/3.41c466e6.chunk.js": "/Acromion07-random-user-app2-React/static/js/3.41c466e6.chunk.js",
+    "static/js/3.41c466e6.chunk.js.map": "/Acromion07-random-user-app2-React/static/js/3.41c466e6.chunk.js.map",
+    "index.html": "/Acromion07-random-user-app2-React/index.html",
+    "static/css/main.2f069416.chunk.css.map": "/Acromion07-random-user-app2-React/static/css/main.2f069416.chunk.css.map",
+    "static/js/2.5cddd6a6.chunk.js.LICENSE.txt": "/Acromion07-random-user-app2-React/static/js/2.5cddd6a6.chunk.js.LICENSE.txt",
+    "static/media/cw.22310668.svg": "/Acromion07-random-user-app2-React/static/media/cw.22310668.svg",
+    "static/media/design.9f215bce.svg": "/Acromion07-random-user-app2-React/static/media/design.9f215bce.svg",
+    "static/media/growing-up-man.5024153b.svg": "/Acromion07-random-user-app2-React/static/media/growing-up-man.5024153b.svg",
+    "static/media/growing-up-woman.a1585842.svg": "/Acromion07-random-user-app2-React/static/media/growing-up-woman.a1585842.svg",
+    "static/media/logo.6ce24c58.svg": "/Acromion07-random-user-app2-React/static/media/logo.6ce24c58.svg",
+    "static/media/mail.42e0750e.svg": "/Acromion07-random-user-app2-React/static/media/mail.42e0750e.svg",
+    "static/media/man.4b684e29.svg": "/Acromion07-random-user-app2-React/static/media/man.4b684e29.svg",
+    "static/media/map.8e5a2a58.svg": "/Acromion07-random-user-app2-React/static/media/map.8e5a2a58.svg",
+    "static/media/padlock.8d2c33d2.svg": "/Acromion07-random-user-app2-React/static/media/padlock.8d2c33d2.svg",
+    "static/media/phone.d017e1ae.svg": "/Acromion07-random-user-app2-React/static/media/phone.d017e1ae.svg",
+    "static/media/woman.05242306.svg": "/Acromion07-random-user-app2-React/static/media/woman.05242306.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb2c0ea2.js",
+    "static/js/2.5cddd6a6.chunk.js",
+    "static/css/main.2f069416.chunk.css",
+    "static/js/main.63cfb0b7.chunk.js"
+  ]
+}
