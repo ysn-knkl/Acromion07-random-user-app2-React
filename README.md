@@ -1,3 +1,7 @@
+
+[logo]: https://github.com/Acromion07/Game-Find-The-Number/blob/main/project-Gift.gif "Logo Title Text 2"
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
