@@ -1,49 +1,88 @@
 
 
 .card-container{
-    background-color: rgb(212, 194, 194);
-    display:flex;
+    display: flex;
     flex-direction: column;
-    width: 70%;
-    justify-content: center;
-    align-items: center;
-    
-    margin: 50px auto;
-    
-    
+    justify-content: space-between;
+    max-width: 500px;
+    margin: 3% auto;
+    overflow: auto;
+    min-height: 10%;
+    padding: 15px;
+    border-radius: 2px;
+    background: linear-gradient(#f1f4f7 25%, #fefefe 25%);
+    box-shadow: grey;
+    border: 1px solid black;
+
 }
+
 .card-info{
-    position: relative;
+    padding-top: 15px;
+
+}
+p{
+    font-size:1rem;
+    padding-bottom: 4px;
 }
 
 .main-img img{
-    width: 50px;
+    width: 22%;
     border-radius: 50%;
-    border: 1px solid grey;
+    border: 2px solid white;
 }
 .card-icon{
-    
-    
-    display:flex;
+    display: flex;
     flex-direction: row;
-    
-      
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 15px;
+          
 }
 
 .card-icon img {
-    width: 20px;
-    height: 20px;
-    margin: 15px;
+    background-color:white;
+    border-radius:50%;
+    width: 7%;
     cursor: pointer;
+    object-fit: cover;
+    padding:1px
 }
 
-.btn button{
+.btn{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 5px 25px;
+    align-items: center;
+    padding-top: 25px;
+    
+
+}
+
+button{
     background-color: purple;
-    margin-left: 30px;
-    padding:1px 5px;
+    padding:5px 25px;
+    font-size:0.8rem;
     cursor: pointer;
+    opacity: 0.8;
+    color: white;
+    border: none;
+    border-radius: 3px;
+   
+}
+button:active {
+    transform: scale(0.98);
+    opacity: 1;
+  }
+
+
+td{
+    font-size:0.7rem;
 }
 
-tbody td{
-    font-size:0.7rem;
+th{
+    font-size:0.9rem;
+    background-color:rgb(228, 174, 74);
+    border: 1px solid white;
+    font-style: italic;
 }

@@ -14,6 +14,7 @@ function App() {
     axios
       .get("https://randomuser.me/api/")
       .then((response) => setUser(response.data.results));
+
   }
 
   return (
