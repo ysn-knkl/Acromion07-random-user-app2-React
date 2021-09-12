@@ -1,6 +1,6 @@
 
 [logo]: https://github.com/Acromion07/Game-Find-The-Number/blob/main/project-Gift.gif "Logo Title Text 2"
-![Random-User-Api](https://user-images.githubusercontent.com/81585729/132258727-8960b267-33b6-417b-aad3-01d002a3185e.gif)
+![Random-User-Api](https://github.com/alperkilickaya/Acromion07-random-user-app2-React/blob/main/Application.gif)
 
 
 # Getting Started with Create React App
